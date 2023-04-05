@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm zakaria mohamed</h1>
 <h3 align="center">A passionate fullstack developer from Somaliland</h3>
-<img align="right" alt="Coding" width="400" src="https://aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif ">
+<img align="right" alt="" width="400" src="https://imgs.search.brave.com/eoIfGtivhPzxkMyb-Fc4i7vFnAhneyV6_SRpNq8eAsk/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC53/Tkd4SGxUQ3NIOXpV/OTBXRG91b0RRSGFG/aiZwaWQ9QXBp ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-mohamed-coder&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-mohamed-coder" /> </p>
 
